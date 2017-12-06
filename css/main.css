@@ -1,0 +1,41 @@
+.fondoRosa{
+    background-color: #F78E69;
+    color: white;
+}
+.fondo{
+    background-image: url(../img/uno.jpg);
+    height: 470px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+.fondoverde{
+    background-color: #ABE188;
+    padding: 30px;
+}
+.margin{
+    margin-top: 20px;
+}
+.fondo2{
+    background-image: url(../img/dos.jpg);
+    height: 800px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-position: top;
+}
+.borde{
+    border: 10px solid white;
+}
+.four-section{
+    background-image: url(../img/tres.jpg);
+    height: 655px;
+    margin-top: 20px;
+    
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+.sinmargin{
+    padding-top: 20px;
+    margin-bottom: 0;
+}
